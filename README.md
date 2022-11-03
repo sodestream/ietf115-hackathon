@@ -2,7 +2,7 @@
 
 The [sodestream project](https://sodestream.github.io) aims to develop methods to improve distributed decision making in large organisations, using a combination of natural language processing and social network analysis.
 
-This project relates to efforts to form an IRTF Research Group around "Researching Internet Standards Processes". A side meeting will be taking place on Thursday, November 10th, 15:30 to 16:30 (UTC+1) in-person (in Mezzanine 12) and online (via Zoom at https://uva-live.zoom.us/j/6365963924). Further information is available from https://pad.riseup.net/p/charterdiscussion-keep.
+This project relates to efforts to form a potential IRTF Research Group around "Researching Internet Standards Processes". A side meeting will be taking place on Thursday, November 10th, 15:30 to 16:30 (UTC+1) in-person (in Mezzanine 12) and online (via Zoom at https://uva-live.zoom.us/j/6365963924). Further information is available from https://pad.riseup.net/p/charterdiscussion-keep.
 ## Tools and datasets
 
 The [ietfdata](https://github.com/glasgow-ipl/ietfdata) library provides a Python 3 interface to access the IETF Datatracker, RFC index, and mailing list archives. The library can also make use of a MongoDB instance as a cache, reducing the number of requests that are made directly to the Datatracker, improving performance, and reducing impact on the IETF's infrastructure. The library's README provides further setup information
