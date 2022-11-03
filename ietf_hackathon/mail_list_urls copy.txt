@@ -1,0 +1,10 @@
+100-newcomers
+100all
+100attendees
+100companions
+101-newcomers
+101all
+101attendees
+101companions
+102-newcomers
+102all
