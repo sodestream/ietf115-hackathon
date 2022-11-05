@@ -9,6 +9,8 @@ The [ietfdata](https://github.com/glasgow-ipl/ietfdata) library provides a Pytho
 
 We will provide on-site Hackathon attendees with a pre-populated MongoDB back-up, containing a snapshot of the mail archive and metadata fetched from the Datatracker.
 
+An etherpad is available at https://pad.riseup.net/p/sodestream-IETF1115-Hackathon.
+
 ## Suggested Tasks
 
 ### Sentiment analysis of `ietf@ietf.org` postings
